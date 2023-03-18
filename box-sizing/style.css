@@ -1,0 +1,23 @@
+*{
+	width: 50%;
+	margin: auto;
+}
+
+
+.prime{
+    box-sizing: content-box;
+    width: 350px;
+    height: 150px;
+    margin: 5px;
+    padding: 1px;
+    border: 2px solid blue;
+}
+
+.second{
+    box-sizing: border-box;
+    width: 350px;
+    height: 150px;
+    margin: 5px;
+    padding: 1px;
+    border: 2px solid greenyellow;
+}

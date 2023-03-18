@@ -1,0 +1,19 @@
+* { margin: 0; padding: 0;} /*Reset*/
+.center {
+    margin: 0 auto;    
+    width: 400px;
+    height: 250px;       
+    background-color: blue;
+    position: relative;
+    text-align: center; 
+}
+
+.prime {
+    position: absolute;
+    width: 300px;
+    height: 150px;
+    top: 0px;        
+    background-color: brown;
+    text-align: center; 
+   
+}

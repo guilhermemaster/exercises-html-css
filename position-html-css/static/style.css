@@ -1,0 +1,11 @@
+* { margin: 0; padding: 0;} /*Reset*/
+.center-static{
+    background-color: darkgreen;
+    position: static;
+    text-align: center;    
+}
+
+.content{
+    height: 1500px;
+    background-color: darkorange;
+}

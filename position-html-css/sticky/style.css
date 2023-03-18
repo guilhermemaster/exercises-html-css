@@ -1,0 +1,18 @@
+* { margin: 0; padding: 0;} /*Reset*/
+.center-sticky{
+    background-color: darkgreen;
+    position: sticky;
+    top: 0;
+    padding: 50px;
+    font-size: 20px;
+    text-align: center;     
+}
+
+.content{
+    height: 1500px;
+    background-color: darkorange;
+}
+
+p {
+    background-color: hotpink;
+}
